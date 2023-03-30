@@ -5,8 +5,6 @@
 https://user-images.githubusercontent.com/15861316/228703263-85ae7bdd-dda8-4e04-bccb-16223b92402d.mp4
 
 
-If you want to convert IDs from GSE to SRR :point_right: [gse2srr.sh](https://github.com/akikuno/gse2srr)
-
 ## Features
 
 - minimal dependencies (only `bash` and `wget`)
@@ -32,3 +30,7 @@ sh prjna2srr.sh PRJNA427709
 # SRR6425163
 # SRR6425164
 ```
+
+## Other tools
+
+- [gse2srr.sh](https://github.com/akikuno/gse2srr) : to convert IDs from GSE to SRR
