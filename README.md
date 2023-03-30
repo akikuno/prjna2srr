@@ -1,4 +1,4 @@
-# `prjna2srr.sh` : a portable script to convert IDs from PRJNA (BioProject accession ID) to SRR
+# `prjna2srr.sh` : Portable script to convert PRJNA (BioProject accession ID) to SRR
 
 
 
