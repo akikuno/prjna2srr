@@ -9,7 +9,7 @@ SRR6425163
 SRR6425164
 EOF
 
-sh ./prjna2.sh PRJNA427709 |
+sh ./prjna2srr.sh PRJNA427709 |
     sort >test_PRJNA427709.txt
 
 if cmp --silent test_PRJNA427709.txt test_answer.txt; then
