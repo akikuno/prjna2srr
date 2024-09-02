@@ -6,11 +6,15 @@ https://user-images.githubusercontent.com/15861316/228703263-85ae7bdd-dda8-4e04-
 
 ## Features
 
-- minimal dependencies (only `bash` and `wget`)
+- minimal dependencies
+  - `bash`
+  - `wget` or `curl`
 
 ## Installation
 
 ```bash
+curl -O https://raw.githubusercontent.com/akikuno/prjna2srr/main/prjna2srr.sh
+# or
 wget https://raw.githubusercontent.com/akikuno/prjna2srr/main/prjna2srr.sh
 ```
 
